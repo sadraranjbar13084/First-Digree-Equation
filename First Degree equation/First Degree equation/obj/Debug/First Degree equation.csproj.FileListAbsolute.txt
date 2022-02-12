@@ -1,0 +1,13 @@
+E:\sadra\developing\ویژوال استدیو\First Degree equation\First Degree equation\bin\Debug\First Degree equation.exe.config
+E:\sadra\developing\ویژوال استدیو\First Degree equation\First Degree equation\bin\Debug\First Degree equation.exe
+E:\sadra\developing\ویژوال استدیو\First Degree equation\First Degree equation\bin\Debug\First Degree equation.pdb
+E:\sadra\developing\ویژوال استدیو\First Degree equation\First Degree equation\obj\Debug\First Degree equation.csproj.AssemblyReference.cache
+E:\sadra\developing\ویژوال استدیو\First Degree equation\First Degree equation\obj\Debug\First_Degree_equation.Form1.resources
+E:\sadra\developing\ویژوال استدیو\First Degree equation\First Degree equation\obj\Debug\First_Degree_equation.Properties.Resources.resources
+E:\sadra\developing\ویژوال استدیو\First Degree equation\First Degree equation\obj\Debug\First Degree equation.csproj.GenerateResource.cache
+E:\sadra\developing\ویژوال استدیو\First Degree equation\First Degree equation\obj\Debug\First Degree equation.csproj.CoreCompileInputs.cache
+E:\sadra\developing\ویژوال استدیو\First Degree equation\First Degree equation\obj\Debug\First Degree equation.exe
+E:\sadra\developing\ویژوال استدیو\First Degree equation\First Degree equation\obj\Debug\First Degree equation.pdb
+E:\sadra\developing\ویژوال استدیو\First Degree equation\First Degree equation\bin\Debug\fa-IR\First Degree equation.resources.dll
+E:\sadra\developing\ویژوال استدیو\First Degree equation\First Degree equation\obj\Debug\First_Degree_equation.Form1.fa-IR.resources
+E:\sadra\developing\ویژوال استدیو\First Degree equation\First Degree equation\obj\Debug\fa-IR\First Degree equation.resources.dll
